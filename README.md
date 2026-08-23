@@ -91,3 +91,9 @@ ember surge).
   parents, focus-visible rings, semantic landmarks, `role="status"`
   preloader.
 - KILN® is a fictional brand created for this showcase.
+
+## Live
+
+**Production:** https://kiln-digital-craft-studio.vercel.app
+
+Deployed on Vercel (`vercel --prod`). Repo: [naveeneppalapally/kiln-digital-craft-studio](https://github.com/naveeneppalapally/kiln-digital-craft-studio).
